@@ -1,0 +1,5 @@
+classes = 1
+train  = /home/gabriel/darknet/cone/train.txt
+valid  = /home/gabriel/darknet/cone/test.txt
+names = /home/gabriel/darknet/cone/classes.names
+backup = /home/gabriel/darknet/cone
